@@ -10,6 +10,8 @@ hosts = ["chris","joe"]
 type = "show"
 active = true
 
+type = "show"
+
 header_image = "/images/shows/linux-action-news.png"
 
 support_link = "https://patreon.com/jupitersignal"
