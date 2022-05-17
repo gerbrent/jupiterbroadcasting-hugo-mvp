@@ -11,6 +11,7 @@ type = "show"
 active = true
 
 type = "show"
+active = true
 
 header_image = "/images/shows/linux-action-news.png"
 
