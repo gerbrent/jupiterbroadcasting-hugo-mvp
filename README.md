@@ -15,6 +15,10 @@
 
 ---
 
+Development has moved to:
+
+https://github.com/JupiterBroadcasting/jupiterbroadcasting.com
+
 Built with Hugo and deployed with Github Actions
 
 Demo: https://jupiterbroadcasting.net
